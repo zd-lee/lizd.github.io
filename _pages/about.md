@@ -17,7 +17,7 @@ I received my B.S. degree in Digital Media Technology from [Shandong University]
 
 I am currently seeking a Ph.D. position for fall 2026 enrollment.
 
-My primary research focus during graduate studies was point cloud orientation, specifically determining normal orientation consistency for non-watertight point clouds. Related work has been accepted by SIGGRAPH 2025 and published in ACM Transactions on Graphics. I aspire to leverage my experience in geometric processing to tackle challenges in 3D generation during my doctoral studies. I may also pursue other graphics-related domains such as 3D reconstruction and geometric processing.
+My primary research focus during graduate studies was point cloud orientation, specifically determining normal orientation consistency for non-watertight point clouds. Related work has been published in ACM Transactions on Graphics (SIGGRAPH 2025), and a follow-up work on super-large-scale point cloud orientation has been accepted to SIGGRAPH 2026. I aspire to leverage my experience in geometric processing to tackle challenges in 3D generation during my doctoral studies. I may also pursue other graphics-related domains such as 3D reconstruction and geometric processing.
 
 
 ## Publications
@@ -39,6 +39,17 @@ My primary research focus during graduate studies was point cloud orientation, s
   </div>
 </div>
 
-You can find my CV here: [Zhuodong Li's Curriculum Vitae](assets/autoCV.pdf).
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="images/meganorm_teaser.png" alt="MegaNorm Teaser" style="width: 120px; height: auto; border: 1px solid #ddd;">
+  </div>
+  <div>
+    <h3 style="color: #D2691E; margin-top: 0; margin-bottom: 8px; font-size: 18px;">MegaNorm: Local Patch Embeddings for Efficient and Robust Point Normal Orientation at Super-Large Scale</h3>
+    <p style="margin: 5px 0; font-style: italic;"><strong>Zhuodong Li</strong>, Zengke Liu, Fei Hou, Wencheng Wang, Ying He</p>
+    <p style="margin: 5px 0; font-weight: bold;">ACM Transactions on Graphics 2026 (SIGGRAPH 2026)</p>
+  </div>
+</div>
+
+You can find my CV here: [Zhuodong Li's Curriculum Vitae](assets/cv.pdf).
 
 [Email](mailto:lizd@ios.ac.cn) / [Github](https://github.com/crazyMessi)
